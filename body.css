@@ -1,0 +1,19 @@
+
+body.two {background-color: lightblue;}
+body {background-color: beige;}
+body.two footer .jumbotron {background-color: lightblue;}
+
+footer.jumbotron {color: red;
+background-color: beige;}
+
+footer .jumbotron {background-color: beige;}
+.jumbotron {background-color:  lightblue;
+}
+
+
+.container-body {padding:  30px;
+font-size: 16px;}
+
+.navbar {height:  51px;}
+
+.navbar-nav {flex-direction: row;}

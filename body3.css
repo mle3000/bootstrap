@@ -1,0 +1,14 @@
+
+body {background-color: beige;}
+
+.jumbotron {background-color:  lightblue;
+text-align: center;}
+
+.container-roy {margin-left: 40%;}
+
+.container-body {padding:  30px;
+font-size: 16px;}
+
+.navbar {height:  51px;}
+
+.navbar-nav {flex-direction: row;}
